@@ -8,8 +8,8 @@ namespace MyTestProject
 {
     class SettingsBO
     {
-        public string TxtBirthdayMonth = "05";
-        public string TxtBirthDay = "10";
-        public string TxtBirthYear = "2005";
+        public string TxtBirthdayMonth = "10";
+        public string TxtBirthDay = "12";
+        public string TxtBirthYear = "2000";
     }
 }

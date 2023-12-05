@@ -8,6 +8,6 @@ namespace MyTestProject
 {
     class ProfileBO
     {
-        public string DescriptionText { get; set; } = "Este es el cambio realizado";
+        public string DescriptionText { get; set; } = "Se realizo correctamente el cambio";
     }
 }
